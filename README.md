@@ -13,7 +13,7 @@ npm install
 [deploy on vercel for frontend](https://multisig-wallet-frontend.vercel.app).
 
 - Note --> You can not see on Transcation histories on the vercel deployment because of can not increase `+1` for txId.
-- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend). Because of I linked for solidity abi-code with front_end folder if you wanna deploy with localhost.You can see on hardhat.config.js.
+- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend). Because of I linked for solidity abi-code with front_end folder if you wanna deploy with localhost.You can see on hardhat.config.js.And also you have to check ReadMe.md of frontend side.
 
 
 ## Acknowledgements
