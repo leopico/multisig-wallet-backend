@@ -2,6 +2,12 @@
 
 This pj was demo multisig_wallet with hardhad framework.Then already testing on [Remix](http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).
 
+# Install depencies
+
+```shell
+npm install
+```
+
 ## Demo
 
 Insert gif or link to demo
@@ -20,12 +26,6 @@ To run this project, you will need to add the following environment variables to
 `PRIVATE_KY`
 
 `ETHERSCAN_API_KEY`
-
-# Install depencies
-
-```shell
-npm install
-```
 
 ## Tech Stack
 
