@@ -1,7 +1,7 @@
 # Multisig-wallet 
 
 This pj was demo multisig_wallet with hardhad frameword.Then already testing on [Remix](http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).
-- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend)
+- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend). Because of I link for solidity abi-code with front_end folder.You can see on hardhatConfig.js.
 
 ## Acknowledgements
 
