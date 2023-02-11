@@ -5,7 +5,7 @@ This pj was demo multisig_wallet with hardhad framework.Then already testing on 
 ## Demo
 
 Insert gif or link to demo
-- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend). Because of I linked for solidity abi-code with front_end folder if you wanna deploy with localhost.You can see on hardhatConfig.js.
+- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend). Because of I linked for solidity abi-code with front_end folder if you wanna deploy with localhost.You can see on hardhat.config.js.
 
 ## Acknowledgements
 
