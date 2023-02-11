@@ -1,7 +1,11 @@
 # Multisig-wallet 
 
-This pj was demo multisig_wallet with hardhad frameword.Then already testing on [Remix](http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).
-- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend). Because of I link for solidity abi-code with front_end folder.You can see on hardhatConfig.js.
+This pj was demo multisig_wallet with hardhad framework.Then already testing on [Remix](http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).
+
+## Demo
+
+Insert gif or link to demo
+- You have to build front_end folder inside your hardhat backend pj. [front_end github link](https://github.com/leopico/multisig-wallet-frontend). Because of I linked for solidity abi-code with front_end folder if you wanna deploy with localhost.You can see on hardhatConfig.js.
 
 ## Acknowledgements
 
@@ -16,10 +20,6 @@ To run this project, you will need to add the following environment variables to
 `PRIVATE_KY`
 
 `ETHERSCAN_API_KEY`
-
-## Demo
-
-Insert gif or link to demo
 
 ## Tech Stack
 
