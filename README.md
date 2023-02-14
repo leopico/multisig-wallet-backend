@@ -36,7 +36,7 @@ npx hardhat verify --constructor-args arguments.js --network -goerli DEPLOYED_CO
 
 - Note --> You can not see on Transcation histories on the vercel deployment because of can not increase `+1` for txId.
 
-[deploy on vercel for frontend](https://multisig-wallet-frontend.vercel.app).
+[deployed on vercel for frontend](https://multisig-wallet-frontend.vercel.app).
 
 ## Acknowledgements
 
