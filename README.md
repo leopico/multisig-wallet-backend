@@ -40,10 +40,9 @@ npx hardhat verify --constructor-args arguments.js --network -goerli DEPLOYED_CO
 
 ## Acknowledgements
 
- - [Hardhar documentation](https://hardhat.org/).
+ - [Hardhat documentation](https://hardhat.org/).
 
 ## Tech Stack
-
 
 **Server:** Solidity, Hardhat
 
