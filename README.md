@@ -1,4 +1,4 @@
-# Multisig-wallet 
+# Multisig-wallet dapp (demo with not qualified)
 
 This pj was demo multisig_wallet with hardhad framework.Then already testing on [Remix](http://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js).
 
@@ -41,6 +41,7 @@ npx hardhat verify --constructor-args arguments.js --network -goerli DEPLOYED_CO
 ## Acknowledgements
 
  - [Hardhat documentation](https://hardhat.org/).
+ - [Solidity](https://soliditylang.org/).
 
 ## Tech Stack
 
